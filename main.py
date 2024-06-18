@@ -15,13 +15,14 @@ files = list_files_in_folder(cwd / "data")
 
 # TODO Make these files available on the local file system
 
-for file in files:
-    upload_to_gemini(file, mime_type="application/pdf")
+uploaded_file_response_list = [
+    upload_to_gemini(file, mime_type="application/pdf") for file in files
+]
 
 model = get_model()
 
 # Some files have a processing delay. Wait for them to be ready.
-wait_for_files_active(files)
+wait_for_files_active(uploaded_file_response_list)
 
 chat_session = model.start_chat(
     history=[
