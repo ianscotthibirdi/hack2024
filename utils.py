@@ -1,5 +1,7 @@
+import glob
 import os
 import time
+from pathlib import Path
 
 import google.generativeai as genai
 
@@ -17,13 +19,18 @@ def wait_for_files_active(files):
     should probably employ a more sophisticated approach.
     """
     print("Waiting for file processing...")
-    for name in (file.name for file in files):
-        file = genai.get_file(name)
+    for file_ in files:
+        file = genai.get_file(file_.name)
         while file.state.name == "PROCESSING":
             print(".", end="", flush=True)
             time.sleep(10)
-            file = genai.get_file(name)
+            file = genai.get_file(file_.name)
         if file.state.name != "ACTIVE":
             raise Exception(f"File {file.name} failed to process")
     print("...all files ready")
     print()
+
+
+def list_files_in_folder(folder_path):
+    folder = Path(folder_path)
+    return [file for file in folder.iterdir() if file.is_file()]
