@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 import google.generativeai as genai
+from PyPDF2 import PdfReader
 
 from api import get_audio_from_text
 from model import get_model, upload_to_gemini
@@ -14,9 +15,22 @@ cwd = Path(__file__).parent
 files = list_files_in_folder(cwd / "data")
 
 # TODO Make these files available on the local file system
+text_files = []
+for file in files:
+    if file.suffix == ".pdf":
+        with open(file, "rb") as pdf_file:
+            pdf_reader = PdfReader(pdf_file)
+            text = ""
+            for page in pdf_reader.pages:
+                text += page.extract_text()
+            text_file = file.with_suffix(".txt")
+            with open(text_file, "w") as f:
+                f.write(text)
+            text_files.append(text_file)
 
 uploaded_file_response_list = [
-    upload_to_gemini(file, mime_type="application/pdf") for file in files
+    upload_to_gemini(file, mime_type="text/plain") for file in text_files
+    
 ]
 
 model = get_model()
@@ -79,7 +93,8 @@ chat_session = model.start_chat(
     ]
 )
 
-response = chat_session.send_message("Í")
+
+response = chat_session.send_message("Where did you get your data from? Keep your answer concise in one paragraph and say your name ZONDA AI")
 
 print(response.text)
 audio_path = get_audio_from_text(response.text)

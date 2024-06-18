@@ -1,0 +1,4741 @@
+Market Summary Report
+Dallas - Ft. Worth
+1Q24
+Table of Contents
+Historical Housing Activity
+Housing Inventory & Activity By Market Area
+Housing Summary By Housing Type
+Price Range Distribution By Market Area
+Lot Size Distribution By Market Area
+Quarterly Plan Summary By Market Area
+Subdivision Absorption Ranking
+Production Builder Ranking
+Market Area Coverage Map
+Total
+Supply
+38,149
+1Q20
+13,321
+7,287
+36,189
+1,210
+21,818
+59,628
+36,264
+8,735
+7.2
+19.7
+265,777
+8,507
+38,936
+2Q20
+14,331
+7,306
+36,817
+1,202
+22,839
+56,821
+38,306
+10,690
+7.4
+17.8
+261,582
+9,669
+39,037
+3Q20
+14,867
+5,625
+38,855
+1,199
+21,691
+58,950
+39,087
+10,293
+6.7
+18.1
+266,256
+11,441
+40,438
+4Q20
+17,418
+5,026
+40,819
+1,181
+23,625
+58,208
+42,854
+13,136
+6.9
+16.3
+263,500
+11,202
+42,915
+1Q21
+19,948
+4,079
+42,170
+1,138
+25,165
+57,026
+45,517
+11,398
+7.2
+15.0
+291,194
+9,858
+46,803
+2Q21
+23,740
+2,732
+44,979
+1,112
+27,584
+53,900
+49,724
+14,897
+7.4
+13.0
+309,801
+12,478
+46,278
+3Q21
+28,011
+2,941
+44,567
+1,101
+32,053
+50,299
+54,929
+15,498
+8.6
+11.0
+317,598
+11,029
+52,277
+4Q21
+28,807
+3,224
+44,911
+1,063
+33,094
+56,105
+54,380
+12,587
+8.8
+12.4
+340,630
+11,546
+53,828
+1Q22
+30,091
+3,353
+45,134
+1,043
+34,487
+56,398
+54,456
+11,474
+9.2
+12.4
+358,295
+10,081
+55,559
+2Q22
+32,323
+4,079
+43,316
+1,018
+37,420
+56,354
+53,119
+13,560
+10.4
+12.7
+375,634
+10,660
+53,202
+3Q22
+31,378
+4,398
+42,503
+1,004
+36,780
+57,106
+46,833
+9,212
+10.4
+14.6
+387,674
+10,216
+54,704
+4Q22
+24,874
+6,239
+46,678
+1,004
+32,117
+66,088
+45,209
+10,963
+8.3
+17.5
+436,848
+15,721
+60,345
+1Q23
+21,111
+6,909
+47,258
+1,001
+29,021
+76,038
+41,249
+7,514
+7.4
+22.1
+427,893
+10,661
+61,428
+2Q23
+21,490
+7,147
+49,073
+1,011
+29,648
+77,538
+40,775
+13,086
+7.2
+22.8
+423,568
+12,475
+67,838
+3Q23
+20,542
+7,470
+50,690
+1,054
+29,066
+82,378
+42,802
+11,239
+6.9
+23.1
+427,657
+11,833
+61,789
+4Q23
+19,244
+8,657
+46,239
+1,096
+28,997
+85,532
+42,927
+11,088
+7.5
+23.9
+432,296
+11,270
+57,711
+1Q24
+21,277
+8,120
+45,476
+1,086
+30,483
+87,478
+46,797
+11,384
+8.0
+22.4
+418,966
+9,898
+Dallas - Ft. Worth Market Summary
+Historical Housing Activity Summary
+Qtr
+UC
+FinVac
+Ann 
+Clos
+Qtr 
+Clos
+Total Inv
+VDL
+Ann 
+Starts
+Qtr 
+Starts
+VDL 
+Supply 
+Ann Lot 
+Deliv
+Fut Lots
+Model
+Copyright Metrostudy
+Dallas - Ft. Worth Residential Survey (1Q24)
+Dal/City of Dallas
+2%
+Starts
+241
+281
+72
+242
+416
+1,011
+3%
+Closings
+354
+361
+161
+533
+220
+1,275
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+5%
+Housing Inv
+1,790
+1,710
+1,621
+1,330
+1,526
+14.4
+mos
+49,097
+5
+393
+1,128
+1,581
+3,828
+56,032
+2%
+VDL Inv
+1,704
+1,552
+1,789
+1,950
+1,581
+18.8
+mos
+Dal/East
+4%
+Starts
+299
+511
+614
+549
+410
+2,084
+5%
+Closings
+316
+223
+1,093
+497
+535
+2,348
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+4%
+Housing Inv
+1,606
+1,894
+1,415
+1,467
+1,342
+6.9
+mos
+66,068
+54
+503
+785
+3,881
+11,301
+82,592
+4%
+VDL Inv
+3,314
+3,592
+3,539
+3,337
+3,881
+22.3
+mos
+Dal/Hunt
+2%
+Starts
+197
+368
+232
+218
+242
+1,060
+2%
+Closings
+245
+229
+207
+288
+148
+872
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+2%
+Housing Inv
+463
+602
+627
+557
+651
+9.0
+mos
+6,684
+20
+278
+353
+2,184
+7,688
+17,207
+2%
+VDL Inv
+1,519
+2,257
+2,169
+2,166
+2,184
+24.7
+mos
+Dal/Northeast
+37%
+Starts
+2,652
+4,416
+4,076
+4,646
+4,156
+17,294
+36%
+Closings
+4,105
+3,789
+4,157
+4,788
+3,508
+16,242
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+34%
+Housing Inv
+9,410
+10,037
+9,956
+9,814
+10,462
+7.7
+mos
+273,570
+389
+1,732
+8,341
+24,914
+110,313
+419,259
+28%
+VDL Inv
+20,489
+21,907
+23,513
+24,442
+24,914
+17.3
+mos
+Dal/Northwest
+2%
+Starts
+365
+363
+146
+182
+203
+894
+3%
+Closings
+614
+469
+267
+375
+275
+1,386
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+2%
+Housing Inv
+1,123
+1,017
+896
+703
+631
+5.5
+mos
+56,403
+24
+173
+434
+1,246
+5,856
+64,136
+1%
+VDL Inv
+1,444
+1,237
+1,287
+1,175
+1,246
+16.7
+mos
+Dal/Outer East
+13%
+Starts
+723
+1,544
+1,490
+1,748
+1,336
+6,118
+12%
+Closings
+1,008
+1,296
+1,343
+1,504
+1,175
+5,318
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+12%
+Housing Inv
+2,972
+3,220
+3,367
+3,611
+3,772
+8.5
+mos
+68,842
+142
+1,299
+2,331
+14,867
+62,870
+150,351
+17%
+VDL Inv
+10,429
+11,404
+13,335
+13,206
+14,867
+29.2
+mos
+Dal/Outer Northwest
+9%
+Starts
+617
+1,286
+1,141
+830
+871
+4,128
+9%
+Closings
+886
+1,547
+1,017
+829
+747
+4,140
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+8%
+Housing Inv
+2,336
+2,075
+2,199
+2,200
+2,324
+6.7
+mos
+56,803
+112
+386
+1,826
+5,249
+51,266
+115,642
+6%
+VDL Inv
+5,671
+5,149
+5,014
+5,387
+5,249
+15.3
+mos
+Dal/Southwest
+6%
+Starts
+421
+803
+743
+400
+849
+2,795
+5%
+Closings
+347
+623
+371
+853
+486
+2,333
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+6%
+Housing Inv
+1,286
+1,466
+1,838
+1,385
+1,748
+9.0
+mos
+62,747
+61
+580
+1,107
+8,000
+40,033
+112,528
+9%
+VDL Inv
+7,683
+7,551
+7,508
+7,840
+8,000
+34.3
+mos
+Dal/West
+1%
+Starts
+108
+77
+105
+163
+100
+445
+1%
+Closings
+88
+60
+153
+70
+87
+370
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+1%
+Housing Inv
+316
+333
+285
+378
+391
+12.7
+mos
+32,354
+12
+104
+275
+1,506
+4,873
+39,124
+2%
+VDL Inv
+1,098
+1,353
+1,421
+1,518
+1,506
+40.6
+mos
+Ftw/Arlington
+1%
+Starts
+132
+209
+128
+66
+87
+490
+1%
+Closings
+128
+204
+144
+76
+170
+594
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+1%
+Housing Inv
+462
+467
+451
+441
+358
+7.2
+mos
+32,567
+16
+143
+199
+630
+2,328
+35,883
+1%
+VDL Inv
+918
+709
+699
+701
+630
+15.4
+mos
+Ftw/City of Fort Worth
+6%
+Starts
+446
+901
+621
+550
+648
+2,720
+6%
+Closings
+587
+950
+896
+235
+541
+2,622
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+6%
+Housing Inv
+1,652
+1,603
+1,328
+1,643
+1,750
+8.0
+mos
+116,719
+47
+751
+952
+4,758
+22,108
+145,335
+5%
+VDL Inv
+4,777
+4,234
+3,994
+4,440
+4,758
+21.0
+mos
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 1 of 2
+*
+Inventory Supply = Housing Inv/(Annual Closings/12)
+ 
+Vacant Developed Lot Supply = VDL Inv/(Annual Starts/12)
+Current Profile Status
+Housing Inventory & Activity By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+Market Area
+ Ann.Rates/
+*Inv Supply
+% Share
+of Market
+Ftw/Far North
+2%
+Starts
+96
+249
+192
+199
+264
+904
+2%
+Closings
+184
+282
+169
+172
+162
+785
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+2%
+Housing Inv
+546
+513
+536
+563
+665
+10.2
+mos
+9,469
+26
+142
+497
+1,150
+17,592
+28,876
+1%
+VDL Inv
+1,099
+863
+1,111
+1,072
+1,150
+15.3
+mos
+Ftw/Northeast
+1%
+Starts
+143
+118
+109
+123
+219
+569
+1%
+Closings
+156
+131
+78
+107
+134
+450
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+2%
+Housing Inv
+485
+472
+503
+519
+604
+16.1
+mos
+45,272
+16
+84
+504
+1,093
+2,132
+49,101
+1%
+VDL Inv
+1,473
+1,387
+1,308
+1,189
+1,093
+23.1
+mos
+Ftw/Northwest
+5%
+Starts
+494
+757
+788
+429
+520
+2,494
+5%
+Closings
+563
+806
+639
+285
+754
+2,484
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+4%
+Housing Inv
+1,354
+1,305
+1,454
+1,598
+1,364
+6.6
+mos
+29,059
+43
+579
+742
+2,566
+23,234
+56,223
+3%
+VDL Inv
+3,915
+3,347
+2,951
+2,977
+2,566
+12.3
+mos
+Ftw/Parker County
+2%
+Starts
+134
+191
+92
+364
+310
+957
+2%
+Closings
+369
+237
+348
+262
+188
+1,035
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+3%
+Housing Inv
+921
+891
+646
+861
+983
+11.4
+mos
+19,811
+27
+304
+652
+4,364
+23,198
+48,356
+5%
+VDL Inv
+2,931
+3,245
+3,658
+4,283
+4,364
+54.7
+mos
+Ftw/South & Southwest
+5%
+Starts
+341
+745
+513
+270
+622
+2,150
+5%
+Closings
+362
+727
+546
+337
+562
+2,172
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+5%
+Housing Inv
+1,461
+1,479
+1,447
+1,380
+1,440
+8.0
+mos
+31,988
+61
+553
+826
+7,019
+24,961
+65,408
+8%
+VDL Inv
+6,167
+6,180
+6,703
+7,267
+7,019
+39.2
+mos
+Ftw/Southeast
+1%
+Starts
+105
+267
+177
+109
+131
+684
+2%
+Closings
+349
+541
+244
+59
+206
+1,050
+   Occ
+   Mod
+ FinVac
+   U/C
+   VDL
+ Future
+ Total
+2%
+Housing Inv
+838
+564
+497
+547
+472
+5.4
+mos
+22,349
+31
+116
+325
+2,470
+5,385
+30,676
+3%
+VDL Inv
+1,407
+1,571
+2,379
+2,582
+2,470
+43.3
+mos
+Totals
+100%
+Starts
+7,514
+13,086
+11,239
+11,088
+11,384
+46,797
+100%
+Closings
+10,661
+12,475
+11,833
+11,270
+9,898
+45,476
+   Occ
+  Mod
+ FinVac
+   U/C
+   VDL
+Future
+ Total
+100%
+Housing Inv
+29,021
+29,648
+29,066
+28,997
+30,483
+8.0
+mos
+979,802
+1,086
+8,120
+21,277
+87,478
+418,966
+1,516,729
+100%
+VDL Inv
+76,038
+77,538
+82,378
+85,532
+87,478
+22.4
+mos
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 2 of 2
+*
+Inventory Supply = Housing Inv/(Annual Closings/12)
+ 
+Vacant Developed Lot Supply = VDL Inv/(Annual Starts/12)
+Current Profile Status
+Housing Inventory & Activity By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+1Q23
+2Q23
+3Q23
+4Q23
+1Q24
+Market Area
+ Ann.Rates/
+*Inv Supply
+% Share
+of Market
+Starts
+10,798
+12,541
+8,514
+Closings
+VDL Inv
+Housing Inv
+9,992
+7,039
+12,447
+10,704
+10,499
+10,393
+9,518
+14,872
+9,645
+9,981
+9,811
+11,724
+10,921
+10,618
+9,285
+31,435
+34,028
+25,719
+28,440
+33,257
+26,458
+26,253
+26,247
+27,355
+51,154
+51,181
+52,382
+60,346
+70,144
+71,414
+75,172
+77,532
+79,088
+44,043
+42,548
+7.7
+21.5
+mos
+mos
+Single Family
+2Q23
+3Q23
+4Q23
+Annual Rate/Supply
+1Q24
+1Q22
+2Q22
+3Q22
+4Q22
+1Q23
+Starts
+668
+1,002
+669
+Closings
+VDL Inv
+Housing Inv
+876
+410
+639
+535
+569
+766
+515
+812
+545
+656
+824
+733
+877
+636
+571
+2,800
+3,146
+2,956
+3,370
+3,274
+2,862
+2,520
+2,453
+2,648
+5,115
+5,061
+4,594
+5,699
+5,861
+6,091
+6,930
+7,692
+8,307
+2,509
+2,817
+11.3
+39.7
+mos
+mos
+TH/Plex/Other
+Starts
+8
+17
+29
+Closings
+Released
+Housing Inv
+95
+65
+0
+0
+20
+225
+48
+37
+26
+23
+26
+18
+35
+16
+42
+252
+246
+346
+307
+249
+328
+293
+297
+480
+129
+112
+130
+43
+33
+33
+276
+308
+83
+245
+111
+51.9
+4.1
+mos
+mos
+Condominium
+933,625
+1,009
+7,194
+19,152
+27,355
+79,088
+392,935
+1,433,003
+325,802
+0
+6,215
+27,868
+32,208
+842
+Single Family
+Occ
+Mod
+F/V
+U/C
+T/Inv
+VDL
+Fut
+Total
+6,727
+0
+106
+374
+480
+83
+93
+7,383
+93
+0
+0
+0
+0
+0
+Condominium
+39,450
+77
+820
+1,751
+2,648
+8,307
+25,938
+76,343
+21,824
+0
+1,176
+1,421
+1,517
+0
+TH/Plex/Other
+Vacant 
+Land
+Survey 
+Stakes
+Equip 
+on Site
+Exca- 
+vation
+Street 
+Paving
+Streets 
+In
+Totals
+842
+33,725
+29,289
+7,391
+0
+347,719
+1,516,729
+418,966
+87,478
+30,483
+21,277
+8,120
+1,086
+979,802
+Total
+$0
+$100,000
+$150,000
+$200,000
+$250,000
+$300,000
+$400,000
+$500,000
+$99,999,999
+$499,999
+$399,999
+$299,999
+$249,999
+$199,999
+$149,999
+$99,999
+44,043
+14,086
+11,871
+14,707
+2,498
+793
+84
+3
+0
+Single Family
+Ann Starts
+2,509
+623
+838
+849
+172
+25
+2
+0
+0
+TH/Plex/Other
+Ann Starts
+245
+245
+0
+0
+0
+0
+0
+0
+0
+Condominium
+Ann Starts
+N/A
+44,043
+2,630
+757
+2,773
+996
+7,497
+1,453
+19,409
+7,931
+Single Family
+Ann Starts
+597
+2,509
+10
+0
+0
+0
+5
+7
+35
+2,088
+TH/Plex/Other
+Ann Starts
+364
+245
+0
+0
+0
+0
+0
+0
+0
+0
+Condominium
+Ann Starts
+245
+Totals
+46,797
+14,954
+12,709
+15,556
+2,670
+818
+86
+3
+0
+Totals
+46,797
+2,640
+757
+2,773
+996
+7,502
+1,460
+19,444
+10,019
+1,206
+Total
+50
+55
+60
+65
+70
+80
+90
+>
+89
+79
+69
+64
+59
+54
+Min Price
+Max Price
+Min Lot Front
+Max Lot Front
+<
+<
+50
+By Quarter
+By Profile
+By Price Range
+By Lot Size
+Condominium
+TH/Plex/Other
+Single Family
+2Q23 Averages
+3Q23 Averages
+4Q23 Averages
+1Q24 Averages
+Price
+Sqft
+$/SF
+Price
+Sqft
+$/SF
+Price
+Sqft
+$/SF
+Price
+Sqft
+$/SF
+$549,487
+2,708
+$203.54
+$547,236
+2,713
+$202.85
+$555,305
+2,727
+$204.05
+$566,460
+2,693
+$209.58
+$428,948
+1,896
+$227.53
+$433,089
+1,925
+$225.22
+$430,647
+1,953
+$220.51
+$430,642
+1,930
+$223.41
+$518,906
+1,867
+$279.23
+$464,240
+1,783
+$261.38
+$431,225
+1,783
+$243.61
+$428,650
+1,783
+$241.55
+By Base Price
+Copyright Metrostudy
+Dallas - Ft. Worth Residential Survey (1Q24)
+Dallas - Ft. Worth Market Summary
+Housing Summary By Housing Type
+Selection Totals
+Dal/City of Dallas
+2.2%
+1Q24 Ann Starts
+0
+0
+6
+7
+61
+200
+210
+527
+1,011
+14'-510'
+2.8%
+1Q24 Ann Closings
+0
+0
+8
+5
+77
+150
+168
+867
+1,275
+11,869 sections
+5.0%
+1Q24 Housing Inv
+0
+0
+3
+7
+45
+185
+205
+1,081
+1,526
+Active
+1.8%
+1Q24 VDL Inv
+0
+0
+10
+8
+103
+381
+79
+1,000
+1,581
+Housing Supply (mos)
+-
+-
+4.3
+17.6
+7.0
+14.7
+14.7
+15.0
+14.4
+VDL Supply (mos)
+-
+-
+21.3
+13.3
+20.3
+22.8
+4.5
+22.8
+18.8
+Dal/East
+4.5%
+1Q24 Ann Starts
+0
+0
+0
+0
+69
+648
+706
+660
+2,084
+20'-342'
+5.2%
+1Q24 Ann Closings
+0
+0
+0
+4
+117
+763
+772
+693
+2,348
+1,801 sections
+4.4%
+1Q24 Housing Inv
+0
+0
+0
+6
+59
+388
+408
+481
+1,342
+Active
+4.4%
+1Q24 VDL Inv
+0
+0
+0
+5
+88
+1,519
+1,358
+911
+3,881
+Housing Supply (mos)
+-
+-
+-
+19.1
+6.1
+6.1
+6.3
+8.3
+6.9
+VDL Supply (mos)
+-
+-
+-
+147.8
+15.2
+28.1
+23.1
+16.6
+22.3
+Dal/Hunt
+2.3%
+1Q24 Ann Starts
+0
+0
+0
+8
+174
+746
+106
+25
+1,060
+25'-392'
+1.9%
+1Q24 Ann Closings
+0
+0
+0
+7
+139
+609
+79
+39
+872
+373 sections
+2.1%
+1Q24 Housing Inv
+0
+0
+0
+11
+120
+380
+111
+30
+651
+Active
+2.5%
+1Q24 VDL Inv
+0
+0
+0
+11
+191
+1,213
+657
+112
+2,184
+Housing Supply (mos)
+-
+-
+0.0
+18.9
+10.4
+7.5
+17.0
+9.1
+9.0
+VDL Supply (mos)
+-
+-
+0.0
+15.0
+13.1
+19.5
+74.2
+54.1
+24.7
+Dal/Northeast
+37.0%
+1Q24 Ann Starts
+0
+0
+66
+162
+753
+4,626
+4,365
+7,322
+17,294
+15'-754'
+35.7%
+1Q24 Ann Closings
+0
+0
+36
+165
+637
+4,218
+3,783
+7,403
+16,242
+8,782 sections
+34.3%
+1Q24 Housing Inv
+0
+0
+27
+51
+454
+2,316
+2,448
+5,166
+10,462
+Active
+28.5%
+1Q24 VDL Inv
+0
+0
+64
+98
+512
+4,982
+6,047
+13,212
+24,914
+Housing Supply (mos)
+-
+-
+8.9
+3.7
+8.6
+6.6
+7.8
+8.4
+7.7
+VDL Supply (mos)
+-
+-
+11.6
+7.3
+8.2
+12.9
+16.6
+21.7
+17.3
+Dal/Northwest
+1.9%
+1Q24 Ann Starts
+0
+0
+0
+0
+2
+106
+112
+674
+894
+15'-458'
+3.0%
+1Q24 Ann Closings
+0
+0
+2
+0
+2
+111
+222
+1,049
+1,386
+1,598 sections
+2.1%
+1Q24 Housing Inv
+0
+0
+0
+0
+0
+88
+79
+464
+631
+Active
+1.4%
+1Q24 VDL Inv
+0
+0
+0
+0
+0
+293
+312
+641
+1,246
+Housing Supply (mos)
+-
+-
+0.0
+-
+2.4
+9.5
+4.2
+5.3
+5.5
+VDL Supply (mos)
+-
+-
+-
+-
+3.0
+33.2
+33.5
+11.4
+16.7
+Dal/Outer East
+13.1%
+1Q24 Ann Starts
+0
+0
+1
+278
+834
+2,660
+1,372
+974
+6,118
+20'-687'
+11.7%
+1Q24 Ann Closings
+0
+0
+2
+216
+616
+2,427
+1,027
+1,030
+5,318
+2,687 sections
+12.4%
+1Q24 Housing Inv
+0
+0
+5
+227
+625
+1,604
+777
+533
+3,772
+Active
+17.0%
+1Q24 VDL Inv
+0
+0
+0
+435
+1,244
+5,495
+4,873
+2,819
+14,867
+Housing Supply (mos)
+-
+-
+26.4
+12.7
+12.2
+7.9
+9.1
+6.2
+8.5
+VDL Supply (mos)
+-
+-
+4.0
+18.8
+17.9
+24.8
+42.6
+34.7
+29.2
+Dal/Outer Northwest
+8.8%
+1Q24 Ann Starts
+0
+0
+0
+16
+98
+1,241
+1,434
+1,338
+4,128
+13'-755'
+9.1%
+1Q24 Ann Closings
+0
+0
+0
+2
+40
+1,425
+1,414
+1,259
+4,140
+2,011 sections
+7.6%
+1Q24 Housing Inv
+0
+0
+0
+14
+82
+598
+731
+899
+2,324
+Active
+6.0%
+1Q24 VDL Inv
+0
+0
+2
+4
+58
+1,372
+2,004
+1,809
+5,249
+Housing Supply (mos)
+-
+-
+-
+69.8
+24.4
+5.0
+6.2
+8.6
+6.7
+VDL Supply (mos)
+-
+-
+-
+2.8
+7.0
+13.3
+16.8
+16.2
+15.3
+Dal/Southwest
+6.0%
+1Q24 Ann Starts
+0
+3
+4
+106
+46
+712
+1,059
+865
+2,795
+16'-1167'
+5.1%
+1Q24 Ann Closings
+0
+2
+3
+68
+55
+635
+891
+679
+2,333
+2,245 sections
+5.7%
+1Q24 Housing Inv
+0
+2
+2
+51
+31
+430
+625
+607
+1,748
+Active
+9.1%
+1Q24 VDL Inv
+0
+5
+6
+102
+109
+1,630
+2,796
+3,352
+8,000
+Housing Supply (mos)
+-
+7.4
+9.5
+9.0
+6.9
+8.1
+8.4
+10.7
+9.0
+VDL Supply (mos)
+-
+18.6
+20.3
+11.5
+28.2
+27.5
+31.7
+46.5
+34.3
+Dal/West
+1.0%
+1Q24 Ann Starts
+0
+0
+0
+0
+6
+129
+150
+160
+445
+19'-245'
+0.8%
+1Q24 Ann Closings
+0
+0
+0
+5
+14
+114
+118
+118
+370
+856 sections
+1.3%
+1Q24 Housing Inv
+0
+0
+0
+0
+7
+115
+103
+166
+391
+Active
+1.7%
+1Q24 VDL Inv
+0
+0
+0
+0
+24
+319
+599
+563
+1,506
+Housing Supply (mos)
+-
+-
+-
+1.1
+5.7
+12.1
+10.4
+16.9
+12.7
+VDL Supply (mos)
+-
+-
+-
+-
+50.8
+29.6
+48.0
+42.2
+40.6
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 1 of 2
+Price Range Distribution By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+Lot Range
+Market Area
+Price Range Segment
+< $99,999
+$150,000
+$199,999
+$200,000
+$249,999
+$400,000
+$499,999
+$500,000 >
+Total
+$300,000
+$399,999
+$250,000
+$299,999
+$100,000
+$149,999
+Market
+Share of
+Market
+Ftw/Arlington
+1.0%
+1Q24 Ann Starts
+0
+0
+0
+0
+0
+52
+242
+196
+490
+20'-250'
+1.3%
+1Q24 Ann Closings
+0
+0
+0
+0
+0
+39
+275
+280
+594
+879 sections
+1.2%
+1Q24 Housing Inv
+0
+0
+0
+0
+0
+46
+180
+132
+358
+Active
+0.7%
+1Q24 VDL Inv
+0
+0
+12
+9
+0
+137
+374
+98
+630
+Housing Supply (mos)
+-
+-
+-
+-
+-
+14.4
+7.9
+5.6
+7.2
+VDL Supply (mos)
+-
+-
+-
+-
+-
+31.8
+18.6
+6.0
+15.4
+Ftw/City of Fort 
+Worth
+5.8%
+1Q24 Ann Starts
+0
+0
+7
+82
+220
+1,491
+750
+170
+2,720
+17'-214'
+5.8%
+1Q24 Ann Closings
+0
+0
+2
+57
+218
+1,557
+519
+270
+2,622
+2,805 sections
+5.7%
+1Q24 Housing Inv
+0
+0
+3
+54
+172
+877
+515
+129
+1,750
+Active
+5.4%
+1Q24 VDL Inv
+0
+0
+2
+18
+426
+2,592
+1,411
+309
+4,758
+Housing Supply (mos)
+-
+-
+20.0
+11.3
+9.5
+6.8
+11.9
+5.7
+8.0
+VDL Supply (mos)
+-
+-
+3.3
+2.6
+23.2
+20.9
+22.6
+21.9
+21.0
+Ftw/Far North
+1.9%
+1Q24 Ann Starts
+0
+0
+0
+4
+129
+281
+180
+310
+904
+22'-964'
+1.7%
+1Q24 Ann Closings
+0
+0
+0
+11
+66
+217
+218
+273
+785
+389 sections
+2.2%
+1Q24 Housing Inv
+0
+0
+0
+0
+88
+168
+154
+256
+665
+Active
+1.3%
+1Q24 VDL Inv
+0
+0
+0
+0
+140
+245
+373
+393
+1,150
+Housing Supply (mos)
+-
+-
+-
+0.0
+15.9
+9.3
+8.5
+11.2
+10.2
+VDL Supply (mos)
+-
+-
+-
+0.0
+13.0
+10.5
+24.9
+15.2
+15.3
+Ftw/Northeast
+1.2%
+1Q24 Ann Starts
+0
+0
+0
+0
+16
+264
+146
+143
+569
+1'-370'
+1.0%
+1Q24 Ann Closings
+0
+0
+0
+0
+7
+150
+79
+213
+450
+1,640 sections
+2.0%
+1Q24 Housing Inv
+0
+0
+0
+0
+10
+206
+163
+225
+604
+Active
+1.2%
+1Q24 VDL Inv
+0
+0
+0
+0
+37
+401
+324
+331
+1,093
+Housing Supply (mos)
+-
+-
+-
+-
+17.2
+16.4
+24.7
+12.7
+16.1
+VDL Supply (mos)
+-
+-
+-
+-
+28.7
+18.2
+26.6
+27.7
+23.1
+Ftw/Northwest
+5.3%
+1Q24 Ann Starts
+0
+0
+0
+37
+95
+1,151
+806
+405
+2,494
+23'-520'
+5.5%
+1Q24 Ann Closings
+0
+0
+0
+48
+243
+1,182
+687
+325
+2,484
+1,003 sections
+4.5%
+1Q24 Housing Inv
+0
+0
+0
+0
+26
+603
+416
+319
+1,364
+Active
+2.9%
+1Q24 VDL Inv
+0
+0
+0
+1
+27
+516
+1,030
+993
+2,566
+Housing Supply (mos)
+-
+-
+-
+0.0
+1.3
+6.1
+7.3
+11.8
+6.6
+VDL Supply (mos)
+-
+-
+-
+0.2
+3.4
+5.4
+15.3
+29.4
+12.3
+Ftw/Parker County
+2.0%
+1Q24 Ann Starts
+0
+0
+2
+11
+28
+224
+274
+418
+957
+20'-1500'
+2.3%
+1Q24 Ann Closings
+0
+0
+1
+6
+25
+323
+272
+408
+1,035
+1,156 sections
+3.2%
+1Q24 Housing Inv
+0
+0
+2
+10
+58
+233
+249
+432
+983
+Active
+5.0%
+1Q24 VDL Inv
+0
+22
+57
+157
+137
+983
+1,194
+1,814
+4,364
+Housing Supply (mos)
+-
+-
+20.0
+18.3
+28.5
+8.6
+11.0
+12.7
+11.4
+VDL Supply (mos)
+-
+-
+373.1
+174.4
+57.7
+52.7
+52.2
+52.1
+54.7
+Ftw/South & 
+Southwest
+4.6%
+1Q24 Ann Starts
+0
+0
+0
+106
+138
+1,005
+608
+293
+2,150
+20'-675'
+4.8%
+1Q24 Ann Closings
+0
+0
+2
+44
+115
+939
+692
+381
+2,172
+1,355 sections
+4.7%
+1Q24 Housing Inv
+0
+0
+0
+7
+88
+689
+402
+253
+1,440
+Active
+8.0%
+1Q24 VDL Inv
+0
+0
+33
+30
+456
+3,606
+1,759
+1,135
+7,019
+Housing Supply (mos)
+-
+-
+0.0
+2.0
+9.3
+8.8
+7.0
+8.0
+8.0
+VDL Supply (mos)
+-
+-
+-
+3.4
+39.6
+43.1
+34.7
+46.5
+39.2
+Ftw/Southeast
+1.5%
+1Q24 Ann Starts
+0
+0
+0
+0
+1
+22
+188
+473
+684
+20'-350'
+2.3%
+1Q24 Ann Closings
+0
+0
+0
+0
+1
+20
+306
+723
+1,050
+864 sections
+1.5%
+1Q24 Housing Inv
+0
+0
+0
+0
+0
+22
+109
+341
+472
+Active
+2.8%
+1Q24 VDL Inv
+0
+0
+0
+2
+5
+434
+468
+1,561
+2,470
+Housing Supply (mos)
+-
+-
+-
+0.0
+0.0
+13.1
+4.3
+5.7
+5.4
+VDL Supply (mos)
+-
+-
+-
+76.9
+94.9
+238.7
+29.9
+39.6
+43.3
+Totals
+100.0%
+1Q24 Ann Starts
+0
+3
+85
+818
+2,670
+15,557
+12,709
+14,954
+46,797
+100.0%
+1Q24 Ann Closings
+0
+2
+56
+638
+2,370
+14,878
+11,521
+16,009
+45,476
+100.0%
+1Q24 Housing Inv
+0
+2
+42
+439
+1,867
+8,946
+7,675
+11,512
+30,483
+100.0%
+1Q24 VDL Inv
+0
+27
+187
+878
+3,556
+26,118
+25,658
+31,053
+87,477
+Housing Supply (mos)
+-
+7.4
+8.9
+8.3
+9.5
+7.2
+8.0
+8.6
+8.0
+VDL Supply (mos)
+-
+100.8
+26.2
+12.9
+16.0
+20.1
+24.2
+24.9
+22.4
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 2 of 2
+Price Range Distribution By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+Lot Range
+Market Area
+Price Range Segment
+< $99,999
+$150,000
+$199,999
+$200,000
+$249,999
+$400,000
+$499,999
+$500,000 >
+Total
+$300,000
+$399,999
+$250,000
+$299,999
+$100,000
+$149,999
+Market
+Share of
+Market
+Dal/City of Dallas
+2.2%
+Ann Starts
+408
+381
+148
+1
+17
+43
+11
+0
+2
+1,011
+$47-$45,000
+1.8%
+VDL Inv
+491
+662
+276
+2
+25
+110
+0
+0
+15
+1,581
+11,869 sections
+0.9%
+Future Inv
+789
+1,747
+557
+194
+263
+52
+74
+33
+119
+3,828
+Active
+VDL Supply (mos)
+14.4
+20.9
+22.4
+24.0
+17.6
+30.7
+0.0
+-
+90.0
+18.8
+Dal/East
+4.5%
+Ann Starts
+99
+955
+373
+3
+410
+0
+114
+9
+121
+2,084
+$62-$2,000
+4.4%
+VDL Inv
+617
+1,212
+1,036
+43
+492
+0
+130
+83
+268
+3,881
+1,801 sections
+2.7%
+Future Inv
+4,651
+2,936
+2,254
+104
+796
+50
+127
+212
+171
+11,301
+Active
+VDL Supply (mos)
+74.8
+15.2
+33.3
+172.0
+14.4
+-
+13.7
+110.7
+26.6
+22.3
+Dal/Hunt
+2.3%
+Ann Starts
+11
+0
+557
+183
+189
+0
+0
+10
+110
+1,060
+$90-$1,200
+2.5%
+VDL Inv
+193
+0
+1,126
+88
+388
+0
+0
+32
+357
+2,184
+373 sections
+1.8%
+Future Inv
+3,516
+187
+2,328
+516
+584
+0
+0
+80
+477
+7,688
+Active
+VDL Supply (mos)
+210.5
+-
+24.3
+5.8
+24.6
+-
+-
+38.4
+38.9
+24.7
+Dal/Northeast
+37.0%
+Ann Starts
+196
+3,991
+7,717
+692
+3,028
+322
+796
+158
+394
+17,294
+$50-$6,500
+28.5%
+VDL Inv
+4,245
+5,877
+6,966
+963
+2,809
+589
+873
+741
+1,851
+24,914
+8,782 sections
+26.3%
+Future Inv
+55,982
+16,203
+25,030
+1,317
+6,990
+820
+1,328
+1,159
+1,484
+110,313
+Active
+VDL Supply (mos)
+259.9
+17.7
+10.8
+16.7
+11.1
+22.0
+13.2
+56.3
+56.4
+17.3
+Dal/Northwest
+1.9%
+Ann Starts
+3
+382
+253
+0
+94
+2
+25
+30
+105
+894
+$60-$4,000
+1.4%
+VDL Inv
+1
+732
+98
+0
+26
+9
+128
+20
+232
+1,246
+1,598 sections
+1.4%
+Future Inv
+460
+1,258
+3,088
+4
+129
+0
+78
+207
+632
+5,856
+Active
+VDL Supply (mos)
+4.0
+23.0
+4.6
+-
+3.3
+54.0
+61.4
+8.0
+26.5
+16.7
+Dal/Outer East
+13.1%
+Ann Starts
+77
+2,045
+2,034
+57
+1,053
+37
+480
+48
+287
+6,118
+$74-$4,700
+17.0%
+VDL Inv
+1,629
+3,923
+4,226
+63
+1,994
+218
+1,041
+491
+1,282
+14,867
+2,687 sections
+15.0%
+Future Inv
+32,511
+5,829
+12,620
+204
+4,755
+749
+1,082
+3,210
+1,910
+62,870
+Active
+VDL Supply (mos)
+253.9
+23.0
+24.9
+13.3
+22.7
+70.7
+26.0
+122.8
+53.6
+29.2
+Dal/Outer Northwest
+8.8%
+Ann Starts
+28
+554
+2,172
+145
+732
+131
+150
+14
+202
+4,128
+$57-$3,000
+6.0%
+VDL Inv
+68
+1,073
+1,946
+62
+993
+127
+263
+17
+700
+5,249
+2,011 sections
+12.2%
+Future Inv
+11,956
+3,045
+26,647
+1,450
+5,289
+0
+1,239
+761
+879
+51,266
+Active
+VDL Supply (mos)
+29.1
+23.2
+10.8
+5.1
+16.3
+11.6
+21.0
+14.6
+41.6
+15.3
+Dal/Southwest
+6.0%
+Ann Starts
+0
+139
+567
+14
+528
+142
+678
+308
+419
+2,795
+$50-$1,700
+9.1%
+VDL Inv
+130
+637
+1,461
+40
+1,686
+289
+683
+551
+2,523
+8,000
+2,245 sections
+9.6%
+Future Inv
+11,125
+4,149
+6,026
+6
+8,007
+348
+4,920
+2,847
+2,605
+40,033
+Active
+VDL Supply (mos)
+-
+55.0
+30.9
+34.3
+38.3
+24.4
+12.1
+21.5
+72.3
+34.3
+Dal/West
+1.0%
+Ann Starts
+18
+202
+81
+4
+86
+53
+1
+0
+0
+445
+$70-$1,700
+1.7%
+VDL Inv
+0
+627
+430
+21
+352
+55
+6
+7
+8
+1,506
+856 sections
+1.2%
+Future Inv
+155
+1,177
+2,220
+35
+784
+0
+44
+455
+3
+4,873
+Active
+VDL Supply (mos)
+0.0
+37.2
+63.7
+63.0
+49.1
+12.5
+72.0
+-
+-
+40.6
+Ftw/Arlington
+1.0%
+Ann Starts
+0
+319
+14
+2
+114
+2
+26
+3
+10
+490
+$60-$3,000
+0.7%
+VDL Inv
+0
+432
+114
+6
+10
+3
+12
+3
+50
+630
+879 sections
+0.6%
+Future Inv
+592
+763
+394
+0
+226
+120
+104
+129
+0
+2,328
+Active
+VDL Supply (mos)
+-
+16.3
+97.7
+36.0
+1.1
+18.0
+5.5
+12.0
+60.0
+15.4
+Ftw/City of Fort 
+Worth
+5.8%
+Ann Starts
+74
+401
+2,141
+8
+55
+6
+32
+0
+3
+2,720
+$40-$6,125
+5.4%
+VDL Inv
+237
+1,149
+3,108
+39
+115
+8
+69
+0
+33
+4,758
+2,805 sections
+5.3%
+Future Inv
+3,147
+3,057
+13,495
+839
+981
+73
+194
+300
+22
+22,108
+Active
+VDL Supply (mos)
+38.4
+34.4
+17.4
+58.5
+25.1
+16.0
+25.9
+-
+132.0
+21.0
+Ftw/Far North
+1.9%
+Ann Starts
+2
+98
+402
+0
+220
+5
+50
+0
+127
+904
+$65-$1,500
+1.3%
+VDL Inv
+10
+76
+428
+0
+278
+3
+43
+2
+310
+1,150
+389 sections
+4.2%
+Future Inv
+918
+1,332
+12,529
+0
+1,437
+0
+828
+0
+548
+17,592
+Active
+VDL Supply (mos)
+60.0
+9.3
+12.8
+-
+15.2
+7.2
+10.3
+-
+29.3
+15.3
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 1 of 2
+Lot Size Distribution By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+Price Range
+(in thousands)
+Market Area
+Lot Size Segment
+< 50
+50-
+54
+ 
+55-
+59
+ 
+60-
+64
+ 
+80-
+89
+ 
+90 >
+Total
+70-
+79
+ 
+65-
+69
+ 
+N/A
+Market
+Share of 
+Market
+Ftw/Northeast
+1.2%
+Ann Starts
+131
+285
+8
+22
+0
+0
+19
+16
+88
+569
+$83-$9,000
+1.2%
+VDL Inv
+244
+329
+84
+12
+15
+8
+67
+42
+292
+1,093
+1,640 sections
+0.5%
+Future Inv
+1,357
+253
+235
+0
+37
+18
+81
+63
+88
+2,132
+Active
+VDL Supply (mos)
+22.4
+13.9
+126.0
+6.5
+-
+-
+42.3
+31.5
+39.8
+23.1
+Ftw/Northwest
+5.3%
+Ann Starts
+0
+105
+1,567
+139
+266
+70
+138
+122
+87
+2,494
+$55-$1,500
+2.9%
+VDL Inv
+388
+139
+950
+5
+319
+9
+278
+162
+316
+2,566
+1,003 sections
+5.5%
+Future Inv
+4,952
+1,060
+9,909
+1,013
+2,437
+0
+2,204
+41
+1,618
+23,234
+Active
+VDL Supply (mos)
+-
+15.9
+7.3
+0.4
+14.4
+1.5
+24.2
+15.9
+43.6
+12.3
+Ftw/Parker County
+2.0%
+Ann Starts
+31
+67
+227
+44
+65
+8
+101
+6
+408
+957
+$75-$2,800
+5.0%
+VDL Inv
+231
+365
+355
+227
+345
+24
+131
+26
+2,660
+4,364
+1,156 sections
+5.5%
+Future Inv
+5,201
+2,920
+4,219
+114
+426
+2,854
+300
+2,762
+4,402
+23,198
+Active
+VDL Supply (mos)
+89.4
+65.4
+18.8
+61.9
+63.7
+36.0
+15.6
+52.0
+78.2
+54.7
+Ftw/South & 
+Southwest
+4.6%
+Ann Starts
+128
+28
+1,022
+95
+479
+67
+97
+21
+213
+2,150
+$55-$4,700
+8.0%
+VDL Inv
+821
+218
+3,353
+182
+582
+147
+405
+110
+1,201
+7,019
+1,355 sections
+6.0%
+Future Inv
+8,173
+1,182
+5,486
+618
+6,443
+170
+828
+543
+1,518
+24,961
+Active
+VDL Supply (mos)
+77.0
+93.4
+39.4
+23.0
+14.6
+26.3
+50.1
+62.9
+67.7
+39.2
+Ftw/Southeast
+1.5%
+Ann Starts
+0
+67
+161
+51
+166
+108
+55
+12
+64
+684
+$70-$2,000
+2.8%
+VDL Inv
+132
+647
+441
+22
+456
+188
+199
+96
+289
+2,470
+864 sections
+1.3%
+Future Inv
+522
+1,534
+1,058
+0
+888
+376
+495
+95
+417
+5,385
+Active
+VDL Supply (mos)
+-
+115.9
+32.9
+5.2
+33.0
+20.9
+43.4
+96.0
+54.2
+43.3
+Totals
+100.0%
+Ann Starts
+1,206
+10,019
+19,444
+1,460
+7,502
+996
+2,773
+757
+2,640
+46,797
+100.0%
+VDL Inv
+9,437
+18,098
+26,398
+1,775
+10,885
+1,787
+4,328
+2,383
+12,387
+87,478
+100.0%
+Future Inv
+146,007
+48,632
+128,095
+6,414
+40,472
+5,630
+13,926
+12,897
+16,893
+418,966
+VDL Supply (mos)
+93.9
+21.7
+16.3
+14.6
+17.4
+21.5
+18.7
+37.8
+56.3
+22.4
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 2 of 2
+Lot Size Distribution By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+Price Range
+(in thousands)
+Market Area
+Lot Size Segment
+< 50
+50-
+54
+ 
+55-
+59
+ 
+60-
+64
+ 
+80-
+89
+ 
+90 >
+Total
+70-
+79
+ 
+65-
+69
+ 
+N/A
+Market
+Share of 
+Market
+Dal/City of 
+Dallas
+$508,932
+1,993
+$260.0
+$463,754
+2,106
+$221.6
+$500,134
+1,977
+$257.7
+$421,412
+1,890
+$226.1
+$424,113
+1,892
+$225.8
+Dal/East
+$540,065
+2,693
+$203.4
+$531,285
+2,633
+$202.9
+$521,625
+2,668
+$199.1
+$513,803
+2,655
+$196.6
+$524,634
+2,597
+$203.6
+Dal/Hunt
+$345,241
+2,092
+$168.4
+$340,478
+2,075
+$167.2
+$360,747
+2,406
+$154.4
+$357,502
+2,408
+$153.1
+$351,852
+2,178
+$164.1
+Dal/Northeast
+$623,876
+2,756
+$225.0
+$627,646
+2,753
+$226.9
+$626,040
+2,745
+$226.7
+$648,244
+2,772
+$231.8
+$652,590
+2,781
+$232.5
+Dal/Northwest
+$750,250
+3,030
+$247.8
+$753,930
+3,006
+$250.5
+$746,163
+3,004
+$249.0
+$751,575
+3,026
+$249.5
+$745,273
+2,938
+$253.6
+Dal/Outer East
+$445,889
+2,527
+$179.5
+$448,575
+2,521
+$180.9
+$449,049
+2,526
+$180.9
+$452,872
+2,552
+$180.0
+$455,464
+2,501
+$183.5
+Dal/Outer 
+Northwest
+$518,546
+2,600
+$202.2
+$517,580
+2,612
+$201.1
+$530,280
+2,643
+$203.3
+$531,028
+2,654
+$202.1
+$558,207
+2,692
+$207.5
+Dal/Southwest
+$519,239
+2,928
+$180.2
+$524,618
+2,952
+$180.5
+$529,831
+2,950
+$182.9
+$528,848
+2,930
+$183.7
+$529,729
+2,835
+$189.6
+Dal/West
+$571,651
+2,729
+$218.2
+$560,933
+2,780
+$208.0
+$573,897
+2,814
+$213.0
+$575,421
+2,763
+$213.4
+$567,730
+2,704
+$215.5
+Ftw/Arlington
+$654,299
+2,790
+$234.9
+$663,717
+2,796
+$237.4
+$696,175
+2,815
+$243.6
+$678,525
+2,820
+$239.7
+$688,633
+2,815
+$243.5
+Ftw/City of Fort 
+Worth
+$433,752
+2,337
+$190.6
+$437,788
+2,320
+$193.3
+$405,101
+2,203
+$188.9
+$415,213
+2,250
+$189.1
+$410,243
+2,202
+$191.1
+Ftw/Far North
+$528,124
+2,714
+$196.5
+$530,217
+2,664
+$199.8
+$501,694
+2,634
+$193.2
+$545,479
+2,707
+$201.4
+$593,022
+2,848
+$207.8
+Ftw/Northeast
+$564,934
+2,402
+$232.4
+$548,872
+2,353
+$230.0
+$540,212
+2,331
+$228.7
+$510,302
+2,284
+$221.5
+$528,836
+2,300
+$226.2
+Ftw/Northwest
+$485,042
+2,600
+$188.5
+$496,780
+2,629
+$190.5
+$500,525
+2,631
+$192.1
+$496,846
+2,614
+$191.7
+$505,845
+2,657
+$192.1
+Ftw/Parker 
+County
+$592,655
+2,747
+$214.7
+$575,601
+2,715
+$211.9
+$625,904
+2,875
+$219.5
+$646,631
+2,952
+$220.8
+$590,782
+2,772
+$214.4
+Ftw/South & 
+Southwest
+$452,249
+2,616
+$176.3
+$437,443
+2,558
+$174.2
+$443,292
+2,638
+$171.9
+$442,840
+2,628
+$172.1
+$414,303
+2,316
+$180.8
+Ftw/Southeast
+$583,624
+2,961
+$200.9
+$570,618
+2,928
+$198.7
+$609,007
+2,979
+$208.0
+$591,789
+3,012
+$199.4
+$596,230
+2,948
+$205.2
+Averages
+$543,810
+2,689
+$203.3
+$546,034
+2,684
+$204.2
+$544,621
+2,694
+$203.4
+$552,219
+2,708
+$204.5
+$562,606
+2,671
+$210.0
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+Page 1 of 1
+Quarterly Plan Summary By Market Area
+Dallas - Ft. Worth Market Summary
+Sorted by Market Area
+Market Area
+3Q23 Averages
+4Q23 Averages
+1Q24 Averages
+2Q23 Averages
+Price
+SqFt
+$/SF
+$/SF
+SqFt
+Price
+$/SF
+SqFt
+Price
+1Q23 Averages
+Price
+$/SF
+SqFt
+$/SF
+SqFt
+Price
+1
+Silverado*
+Single Family
+1
+$290-$469
+867
+820
+Dal/Northeast
+2
+Painted Tree*
+Mixed
+10
+$300-$955
+646
+208
+Dal/Northeast
+3
+Harvest*
+Mixed
+9
+$300-$1,423
+470
+366
+Dal/Northwest
+4
+Bridgewater (Collin Co)*
+Single Family
+1
+$234-$516
+461
+435
+Dal/Northeast
+5
+Honey Creek*
+Single Family
+1
+$291-$643
+459
+431
+Dal/Northeast
+6
+Elevon*
+Single Family
+6
+$291-$546
+451
+258
+Dal/Outer East
+7
+Pecan Square*
+Mixed
+7
+$300-$1,001
+427
+316
+Dal/Outer Northwest
+8
+Windsong Ranch*
+Mixed
+13
+$400-$2,220
+420
+486
+Dal/Northeast
+9
+Eastridge*
+Single Family
+2
+$309-$600
+397
+408
+Dal/Northeast
+10
+Gateway Parks*
+Single Family
+8
+$294-$600
+383
+241
+Dal/Outer East
+11
+Devonshire*
+Mixed
+11
+$288-$698
+382
+295
+Dal/Outer East
+12
+Trinity Falls*
+Mixed
+6
+$275-$1,081
+365
+373
+Dal/Northeast
+13
+Light Farms*
+Single Family
+8
+$273-$1,270
+361
+445
+Dal/Northeast
+14
+Northpointe*
+Single Family
+1
+$275-$516
+348
+452
+Ftw/Northwest
+15
+Whitewing Trails*
+Single Family
+4
+$300-$600
+347
+178
+Dal/Northeast
+16
+Sutton Fields*
+Single Family
+6
+$260-$726
+345
+295
+Dal/Northeast
+17
+Cypress Creek  (Lowry Crossing)
+Single Family
+1
+$265-$495
+335
+208
+Dal/Northeast
+18
+Northstar*
+Single Family
+4
+$291-$500
+333
+215
+Ftw/Northwest
+19
+Tillage Farms*
+Single Family
+1
+$189-$325
+327
+193
+Dal/Northeast
+20
+Union Park*
+Single Family
+6
+$334-$738
+322
+439
+Dal/Northeast
+21
+Viridian*
+Mixed
+7
+$361-$1,709
+321
+440
+Ftw/Arlington
+22
+Mustang Lakes*
+Single Family
+11
+$300-$2,082
+320
+249
+Dal/Northeast
+23
+Heartland*
+Mixed
+9
+$244-$600
+318
+355
+Dal/Outer East
+24
+Eastland
+Single Family
+1
+$212-$400
+315
+73
+Dal/Outer East
+25
+Sandbrock Ranch*
+Single Family
+4
+$412-$868
+279
+269
+Dal/Northeast
+Totals
+9,999
+8,448
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+* Collection of multiple subdivisions that share a 
+marketing location and entry monumentation.
+Subdivision Absorption Ranking (Top 25)
+Dallas - Ft. Worth Market Summary
+Annual 
+Closings
+Price Range
+(in thousands)
+Annual 
+Starts
+Market Area
+Subdivision / 
+Community* Name
+Starts
+Rank
+Housing Type
+Active
+Builders
+1
+D.R. Horton Inc
+1,417
+1,987
+1,523
+1,349
+6,276
+6,276
+13.8%
+2
+Lennar Homes
+1,016
+1,145
+959
+911
+4,031
+4,031
+8.9%
+3
+Bloomfield Homes
+591
+430
+404
+545
+1,970
+1,970
+4.3%
+4
+Highland Homes
+471
+487
+583
+425
+1,966
+1,966
+4.3%
+5
+D.R. Horton Inc - Express
+496
+496
+296
+246
+1,534
+1,534
+3.4%
+6
+Meritage Homes
+515
+327
+370
+313
+1,525
+1,525
+3.4%
+7
+Trophy Signature Homes
+302
+268
+423
+268
+1,261
+1,261
+2.8%
+8
+LGI Homes
+323
+236
+252
+252
+1,063
+1,063
+2.3%
+9
+First Texas Homes
+358
+240
+199
+193
+990
+990
+2.2%
+10
+M/I Homes
+189
+201
+277
+196
+863
+863
+1.9%
+Top 10 Totals
+5,678
+5,817
+5,286
+4,698
+21,479
+21,479
+47.2%
+11
+Centex Homes
+377
+207
+117
+118
+819
+819
+1.8%
+12
+Megatel Homes
+197
+189
+144
+214
+744
+744
+1.6%
+13
+David Weekley Homes
+170
+136
+179
+227
+712
+712
+1.6%
+14
+Impression Homes
+130
+246
+121
+176
+673
+673
+1.5%
+15
+Beazer Homes
+212
+184
+136
+119
+651
+651
+1.4%
+16
+American Legend Homes
+146
+111
+250
+139
+646
+646
+1.4%
+17
+Starlight Homes by Ashton
+265
+168
+91
+119
+643
+643
+1.4%
+18
+Perry Homes
+104
+168
+190
+179
+641
+641
+1.4%
+19
+History Maker Homes
+142
+222
+130
+137
+631
+631
+1.4%
+20
+Pulte Homes
+123
+105
+194
+185
+607
+607
+1.3%
+Top 20 Totals
+7,544
+7,553
+6,838
+6,311
+28,246
+28,246
+62.1%
+21
+Coventry Homes - Dream Fi
+205
+127
+104
+130
+566
+566
+1.2%
+22
+K. Hovnanian Homes
+98
+89
+228
+126
+541
+541
+1.2%
+23
+Riverside Homebuilders
+133
+187
+106
+90
+516
+516
+1.1%
+24
+CB Jeni Homes
+145
+89
+91
+126
+451
+451
+1.0%
+25
+Taylor Morrison
+136
+85
+117
+113
+451
+451
+1.0%
+Top 25 Totals
+8,261
+8,130
+7,484
+6,896
+30,771
+30,771
+67.7%
+All Production Builders Totals
+11,236
+10,811
+9,886
+9,009
+40,942
+11
+40,953
+90.1%
+All Builders Totals
+12,475
+11,833
+11,270
+9,898
+45,476
+45,476
+100.0%
+numbers in this column are based on shared (multiple-
+builder) sections; in these cases, the annual number is 
+evenly distributed between builders in these sections
+Dallas - Ft. Worth Residential Survey (1Q24)
+Copyright Metrostudy
+  
+Production Builder Ranking (Top 25)
+Dallas - Ft. Worth Market Summary
+2Q23
+4Q23
+1Q24
+Total 
+Annual 
+Closings  
+Annual
+_______Single-Builder Section Closings_______
+Closings
+Rank
+Builder Name
+3Q23
+Shared 
+Annual 
+Closings  
+Market 
+Share  
+ 
+ 
+ 
+ 
+ 
+Dallas  - Ft. Worth  Market Areas  
+ 
+ 
+Metrostudy  
+1255 West 15th Street , Suite 240 
+Plano , TX 75 075 
+Phone:   972.701.9200  
+Fax:  972.701.9909  
+ 
+ 
+ 
+ 
