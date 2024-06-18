@@ -5,24 +5,24 @@ import google.generativeai as genai
 
 from api import get_mp3_from_text
 from model import get_model, upload_to_gemini
-from utils import wait_for_files_active
+from utils import list_files_in_folder, wait_for_files_active
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 cwd = Path(__file__).parent
 
-file = cwd / "data" / "Rental-Housing-Outlook_April-2024.pdf"
+files = list_files_in_folder(cwd / "data")
 
 # TODO Make these files available on the local file system
 
-files = [
-    upload_to_gemini(file, mime_type="application/pdf"),
+uploaded_file_response_list = [
+    upload_to_gemini(file, mime_type="application/pdf") for file in files
 ]
 
 model = get_model()
 
 # Some files have a processing delay. Wait for them to be ready.
-wait_for_files_active(files)
+wait_for_files_active(uploaded_file_response_list)
 
 chat_session = model.start_chat(
     history=[
