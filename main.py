@@ -3,7 +3,7 @@ from pathlib import Path
 
 import google.generativeai as genai
 
-from api import get_mp3_from_text
+from api import get_audio_from_text
 from model import get_model, upload_to_gemini
 from utils import list_files_in_folder, wait_for_files_active
 
@@ -82,4 +82,4 @@ chat_session = model.start_chat(
 response = chat_session.send_message("Í")
 
 print(response.text)
-audio_path = get_mp3_from_text(response.text)
+audio_path = get_audio_from_text(response.text)
