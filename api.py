@@ -15,7 +15,7 @@ def get_mp3_from_text(api_key, text):
 
     data = {
         "input": {"text": text},
-        "voice": {"languageCode": "en-US", "name": "en-US-Wavenet-D"},
+        "voice": {"languageCode": "en-US", "name": "en-US-Journey-F"},
         "audioConfig": {"audioEncoding": "MP3"},
     }
 
