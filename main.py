@@ -82,3 +82,4 @@ chat_session = model.start_chat(
 response = chat_session.send_message("Í")
 
 print(response.text)
+audio_path = get_mp3_from_text(response.text)
