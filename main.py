@@ -24,12 +24,13 @@ model = get_model()
 # Some files have a processing delay. Wait for them to be ready.
 wait_for_files_active(uploaded_file_response_list)
 
+
 chat_session = model.start_chat(
     history=[
         {
             "role": "user",
             "parts": [
-                files[0],
+                uploaded_file_response_list[0],
                 "Summarise the data in Dallas",
             ],
         },
