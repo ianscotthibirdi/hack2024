@@ -94,7 +94,7 @@ chat_session = model.start_chat(
 )
 
 
-response = chat_session.send_message("Where did you get your data from? Keep your answer concise in one paragraph and say your name ZONDA AI")
+response = chat_session.send_message("Give your name as Zonda AI and say you will be a BTR market analyst. Keep your answer concise and say how you can help.")
 
 print(response.text)
 audio_path = get_audio_from_text(response.text)
