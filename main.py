@@ -95,13 +95,17 @@ chat_session = model.start_chat(
 )
 
 
-def one_question_responce():
-    transcripts = audio_to_text(duration=8)  # User response will be transcribed
+def get_response(transcripts):
     response = chat_session.send_message(
         get_non_empty_string(transcripts)
     )  # send the user response to the model
     get_audio_from_text(response.text)
     time.sleep(3)
+
+
+def one_question_responce():
+    transcripts = audio_to_text(duration=8)  # User response will be transcribed
+    get_response(transcripts)
 
 
 response = chat_session.send_message(
