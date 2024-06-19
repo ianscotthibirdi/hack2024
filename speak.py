@@ -21,7 +21,7 @@ def get_audio_from_text(text, save_to_file=None):
 
     data = {
         "input": {"ssml": ssml},
-        "voice": {"languageCode": "en-US", "name": "en-US-Journey-O"},
+        "voice": {"languageCode": "en-US", "name": "en-US-Journey-F"},
         "audioConfig": {"audioEncoding": "MP3"},
     }
 
