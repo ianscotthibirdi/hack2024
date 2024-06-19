@@ -12,6 +12,11 @@ from pydub import AudioSegment
 from pydub.playback import play
 
 
+def play_file(path):
+    audio = AudioSegment.from_file(path, format="mp3")
+    play(audio)
+
+
 def get_audio_from_text(text, save_to_file=None):
     plain_text = text_to_plain(text)
     api_key = os.getenv("GOOGLE_API_KEY")
