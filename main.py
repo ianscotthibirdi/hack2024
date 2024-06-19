@@ -108,5 +108,5 @@ response = chat_session.send_message(
 print(response.text)
 get_audio_from_text(response.text)  # AI response will play as audio
 
-one_question_responce()
-one_question_responce()
+while True:
+    one_question_responce()
