@@ -1,18 +1,19 @@
 """brew install ffmpeg"""
 
 import base64
-import html
 import json
 import os
+import re
 from io import BytesIO
 
 import requests
+from google.cloud import texttospeech
 from pydub import AudioSegment
 from pydub.playback import play
 
 
 def get_audio_from_text(text, save_to_file=None):
-    ssml = text_to_ssml(text)
+    ssml = text_to_plain(text)
     api_key = os.getenv("GOOGLE_API_KEY")
 
     url = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={api_key}"
@@ -20,7 +21,7 @@ def get_audio_from_text(text, save_to_file=None):
     headers = {"Content-Type": "application/json"}
 
     data = {
-        "input": {"ssml": ssml},
+        "input": {"text": ssml},
         "voice": {"languageCode": "en-US", "name": "en-US-Journey-F"},
         "audioConfig": {"audioEncoding": "MP3"},
     }
@@ -43,33 +44,11 @@ def get_audio_from_text(text, save_to_file=None):
         raise Exception(f"Error in text-to-speech request: {response.text}")
 
 
-def text_to_ssml(input_text):
-    # Generates SSML text from plaintext.
-    # Given an input filename, this function converts the contents of the text
-    # file into a string of formatted SSML text. This function formats the SSML
-    # string so that, when synthesized, the synthetic audio will pause for two
-    # seconds between each line of the text file. This function also handles
-    # special text characters which might interfere with SSML commands.
-    #
-    # Args:
-    # inputfile: string name of plaintext file
-    #
-    # Returns:
-    # A string of SSML text based on plaintext input
+def text_to_plain(input_text):
 
-    # Replace special characters with HTML Ampersand Character Codes
-    # These Codes prevent the API from confusing text with
-    # SSML commands
-    # For example, '<' --> '&lt;' and '&' --> '&amp;'
+    output_text = re.sub(r"[\n\r]", "", input_text)
 
-    escaped_lines = html.escape(input_text)
-
-    # Convert plaintext to SSML
-    # Wait two seconds between each address
-    ssml = "<speak>{}</speak>".format(escaped_lines.replace("\n", '\n<break time="2s"/>'))
-
-    # Return the concatenated string of ssml script
-    return ssml
+    return output_text
 
 
 def list_en_us_female_voices():
