@@ -13,7 +13,7 @@ from pydub.playback import play
 
 
 def get_audio_from_text(text, save_to_file=None):
-    ssml = text_to_plain(text)
+    plain_text = text_to_plain(text)
     api_key = os.getenv("GOOGLE_API_KEY")
 
     url = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={api_key}"
@@ -21,7 +21,7 @@ def get_audio_from_text(text, save_to_file=None):
     headers = {"Content-Type": "application/json"}
 
     data = {
-        "input": {"text": ssml},
+        "input": {"text": plain_text},
         "voice": {"languageCode": "en-US", "name": "en-US-Journey-F"},
         "audioConfig": {"audioEncoding": "MP3"},
     }
@@ -46,7 +46,7 @@ def get_audio_from_text(text, save_to_file=None):
 
 def text_to_plain(input_text):
 
-    output_text = re.sub(r"[\n\r]", "", input_text)
+    output_text = re.sub(r"[\n\r*]", "", input_text)
 
     return output_text
 
