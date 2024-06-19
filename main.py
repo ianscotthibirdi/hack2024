@@ -1,4 +1,5 @@
 import os
+import time
 from pathlib import Path
 
 import google.generativeai as genai
@@ -94,15 +95,18 @@ chat_session = model.start_chat(
 )
 
 
+def one_question_responce():
+    transcripts = audio_to_text(duration=8)  # User response will be transcribed
+    response = chat_session.send_message(transcripts[0])  # send the user response to the model
+    get_audio_from_text(response.text)
+    time.sleep(5)
+
+
 response = chat_session.send_message(
     "Give your name as Zonda AI and say you will be a BTR market analyst. Keep your answer concise and say how you can help."
 )
-
 print(response.text)
 get_audio_from_text(response.text)  # AI response will play as audio
 
-transcripts = audio_to_text(duration=5)  # User response will be transcribed
-
-response = chat_session.send_message(transcripts[0])  # send the user response to the model
-
-get_audio_from_text(response.text)
+one_question_responce()
+one_question_responce()
