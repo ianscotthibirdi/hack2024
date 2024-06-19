@@ -99,6 +99,9 @@ response = chat_session.send_message(
 )
 
 print(response.text)
-audio_path = get_audio_from_text(response.text)
+get_audio_from_text(response.text)  # AI response will play as audio
 
-transcripts = audio_to_text(duration=5, play_audio=True)
+transcripts = audio_to_text(duration=5)  # User response will be transcribed
+
+response = chat_session.send_message(transcripts[0])  # send the user response to the model
+get_audio_from_text(response.text)
