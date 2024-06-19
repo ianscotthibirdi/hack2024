@@ -6,6 +6,7 @@ from PyPDF2 import PdfReader
 
 from model import get_model, upload_to_gemini
 from speak import get_audio_from_text
+from transcribe import audio_to_text
 from utils import list_files_in_folder, wait_for_files_active
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
@@ -99,3 +100,5 @@ response = chat_session.send_message(
 
 print(response.text)
 audio_path = get_audio_from_text(response.text)
+
+transcripts = audio_to_text(duration=5, play_audio=True)

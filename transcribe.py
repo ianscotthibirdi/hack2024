@@ -93,8 +93,14 @@ def play_audio_bytes(audio_bytes, sample_rate=16000, channels=1):
     play_obj.wait_done()
 
 
-if __name__ == "__main__":
-    audio_bytes = capture_audio_to_bytes(duration=5)
-    play_audio_bytes(audio_bytes)
+def audio_to_text(duration=5, play_audio=False):
+    audio_bytes = capture_audio_to_bytes(duration=duration)
     transcripts = get_text_from_audio(audio_bytes)
+    if play_audio:
+        play_audio_bytes(audio_bytes)
+    return transcripts
+
+
+if __name__ == "__main__":
+    transcripts = audio_to_text(duration=5, play_audio=True)
     print(transcripts)
