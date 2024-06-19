@@ -34,3 +34,10 @@ def wait_for_files_active(files):
 def list_files_in_folder(folder_path):
     folder = Path(folder_path)
     return [file for file in folder.iterdir() if file.is_file()]
+
+
+def get_non_empty_string(strings):
+    for string in strings:
+        if string:
+            return string
+    return None

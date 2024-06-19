@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 from model import get_model, upload_to_gemini
 from speak import get_audio_from_text
 from transcribe import audio_to_text
-from utils import list_files_in_folder, wait_for_files_active
+from utils import get_non_empty_string, list_files_in_folder, wait_for_files_active
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
@@ -97,9 +97,11 @@ chat_session = model.start_chat(
 
 def one_question_responce():
     transcripts = audio_to_text(duration=8)  # User response will be transcribed
-    response = chat_session.send_message(transcripts[0])  # send the user response to the model
+    response = chat_session.send_message(
+        get_non_empty_string(transcripts)
+    )  # send the user response to the model
     get_audio_from_text(response.text)
-    time.sleep(5)
+    time.sleep(3)
 
 
 response = chat_session.send_message(
